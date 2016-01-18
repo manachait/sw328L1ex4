@@ -1,7 +1,7 @@
 <widget id="com.manachai.multipages" version="0.0.1">
-        <name>MultiPages</name>
+        <name>TempConverter</name>
         <description>
-            A sample of multiple pages application.
+            A basic temperature converter application.
         </description>
         <author email="manachai_toa@utcc.ac.th" href="http://www.utcc.ac.th">
             Systems and Networking Group
