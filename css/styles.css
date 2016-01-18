@@ -1,0 +1,20 @@
+body{
+	color:#777;
+	background-color:#e7e7e7;
+	font:15px Calibri,Arial,sans-serif;
+}
+
+h1{
+    color: #33CC00;
+}
+
+a, a:visited {
+	text-decoration:underline;
+	outline:none;
+	color:#4086c7;
+}
+
+a:hover{
+	border-bottom:1px dashed transparent;
+	text-decoration:none;
+}

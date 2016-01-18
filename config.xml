@@ -1,0 +1,16 @@
+<widget id="com.manachai.multipages" version="0.0.1">
+        <name>MultiPages</name>
+        <description>
+            A sample of multiple pages application.
+        </description>
+        <author email="manachai_toa@utcc.ac.th" href="http://www.utcc.ac.th">
+            Systems and Networking Group
+        </author>
+        <content src="index.html" />
+		<icon src="icon.png" platform="android" qualifier="ldpi" />
+		<!--<icon src="icon.png" platform="android" qualifier="mdpi" />
+		<icon src="icon.png" platform="android" qualifier="hdpi" />
+		<icon src="icon.png" platform="android" qualifier="xhdpi" />
+		<icon src="icon.png" platform="android" qualifier="xxhdpi" />-->
+        <access origin="*" />
+</widget>
